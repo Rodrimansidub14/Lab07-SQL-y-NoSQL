@@ -1,0 +1,582 @@
+[
+    {
+        "continente": "África",
+        "región": "África Austral",
+        "país": "Sudáfrica",
+        "capital": "Pretoria",
+        "población": 59308690,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 21,
+                "precio_promedio_usd": 30,
+                "precio_alto_usd": 39
+            },
+            "comida": {
+                "precio_bajo_usd": 14,
+                "precio_promedio_usd": 20,
+                "precio_alto_usd": 26
+            },
+            "transporte": {
+                "precio_bajo_usd": 25,
+                "precio_promedio_usd": 37,
+                "precio_alto_usd": 48
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 30,
+                "precio_promedio_usd": 43,
+                "precio_alto_usd": 55
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Occidental",
+        "país": "Nigeria",
+        "capital": "Abuja",
+        "población": 206139589,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 28,
+                "precio_promedio_usd": 41,
+                "precio_alto_usd": 53
+            },
+            "comida": {
+                "precio_bajo_usd": 15,
+                "precio_promedio_usd": 22,
+                "precio_alto_usd": 28
+            },
+            "transporte": {
+                "precio_bajo_usd": 15,
+                "precio_promedio_usd": 22,
+                "precio_alto_usd": 28
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 19,
+                "precio_promedio_usd": 28,
+                "precio_alto_usd": 36
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África del Norte",
+        "país": "Egipto",
+        "capital": "El Cairo",
+        "población": 102334404,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 26,
+                "precio_promedio_usd": 38,
+                "precio_alto_usd": 49
+            },
+            "comida": {
+                "precio_bajo_usd": 7,
+                "precio_promedio_usd": 10,
+                "precio_alto_usd": 13
+            },
+            "transporte": {
+                "precio_bajo_usd": 29,
+                "precio_promedio_usd": 42,
+                "precio_alto_usd": 54
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 23,
+                "precio_promedio_usd": 33,
+                "precio_alto_usd": 42
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Oriental",
+        "país": "Kenia",
+        "capital": "Nairobi",
+        "población": 53771296,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 29,
+                "precio_promedio_usd": 42,
+                "precio_alto_usd": 54
+            },
+            "comida": {
+                "precio_bajo_usd": 15,
+                "precio_promedio_usd": 22,
+                "precio_alto_usd": 28
+            },
+            "transporte": {
+                "precio_bajo_usd": 22,
+                "precio_promedio_usd": 32,
+                "precio_alto_usd": 41
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 23,
+                "precio_promedio_usd": 34,
+                "precio_alto_usd": 44
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África del Norte",
+        "país": "Marruecos",
+        "capital": "Rabat",
+        "población": 36910560,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 20,
+                "precio_promedio_usd": 29,
+                "precio_alto_usd": 37
+            },
+            "comida": {
+                "precio_bajo_usd": 15,
+                "precio_promedio_usd": 22,
+                "precio_alto_usd": 28
+            },
+            "transporte": {
+                "precio_bajo_usd": 21,
+                "precio_promedio_usd": 31,
+                "precio_alto_usd": 40
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 24,
+                "precio_promedio_usd": 35,
+                "precio_alto_usd": 45
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África del Norte",
+        "país": "Argelia",
+        "capital": "Argel",
+        "población": 43851044,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 31,
+                "precio_promedio_usd": 45,
+                "precio_alto_usd": 58
+            },
+            "comida": {
+                "precio_bajo_usd": 28,
+                "precio_promedio_usd": 41,
+                "precio_alto_usd": 53
+            },
+            "transporte": {
+                "precio_bajo_usd": 28,
+                "precio_promedio_usd": 41,
+                "precio_alto_usd": 53
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 19,
+                "precio_promedio_usd": 28,
+                "precio_alto_usd": 36
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Oriental",
+        "país": "Etiopía",
+        "capital": "Adís Abeba",
+        "población": 114963588,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 16,
+                "precio_promedio_usd": 24,
+                "precio_alto_usd": 31
+            },
+            "comida": {
+                "precio_bajo_usd": 8,
+                "precio_promedio_usd": 12,
+                "precio_alto_usd": 15
+            },
+            "transporte": {
+                "precio_bajo_usd": 21,
+                "precio_promedio_usd": 30,
+                "precio_alto_usd": 39
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 19,
+                "precio_promedio_usd": 28,
+                "precio_alto_usd": 36
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Occidental",
+        "país": "Ghana",
+        "capital": "Accra",
+        "población": 31072940,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 19,
+                "precio_promedio_usd": 28,
+                "precio_alto_usd": 36
+            },
+            "comida": {
+                "precio_bajo_usd": 21,
+                "precio_promedio_usd": 31,
+                "precio_alto_usd": 40
+            },
+            "transporte": {
+                "precio_bajo_usd": 23,
+                "precio_promedio_usd": 33,
+                "precio_alto_usd": 42
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 17,
+                "precio_promedio_usd": 25,
+                "precio_alto_usd": 32
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Oriental",
+        "país": "Tanzania",
+        "capital": "Dodoma",
+        "población": 59734218,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 11,
+                "precio_promedio_usd": 16,
+                "precio_alto_usd": 20
+            },
+            "comida": {
+                "precio_bajo_usd": 12,
+                "precio_promedio_usd": 18,
+                "precio_alto_usd": 23
+            },
+            "transporte": {
+                "precio_bajo_usd": 29,
+                "precio_promedio_usd": 42,
+                "precio_alto_usd": 54
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 11,
+                "precio_promedio_usd": 17,
+                "precio_alto_usd": 22
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Occidental",
+        "país": "Senegal",
+        "capital": "Dakar",
+        "población": 16743927,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 23,
+                "precio_promedio_usd": 34,
+                "precio_alto_usd": 44
+            },
+            "comida": {
+                "precio_bajo_usd": 25,
+                "precio_promedio_usd": 36,
+                "precio_alto_usd": 46
+            },
+            "transporte": {
+                "precio_bajo_usd": 30,
+                "precio_promedio_usd": 44,
+                "precio_alto_usd": 57
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 22,
+                "precio_promedio_usd": 32,
+                "precio_alto_usd": 41
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África del Norte",
+        "país": "Túnez",
+        "capital": "Túnez",
+        "población": 11818619,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 18,
+                "precio_promedio_usd": 26,
+                "precio_alto_usd": 33
+            },
+            "comida": {
+                "precio_bajo_usd": 25,
+                "precio_promedio_usd": 37,
+                "precio_alto_usd": 48
+            },
+            "transporte": {
+                "precio_bajo_usd": 11,
+                "precio_promedio_usd": 17,
+                "precio_alto_usd": 22
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 18,
+                "precio_promedio_usd": 26,
+                "precio_alto_usd": 33
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Oriental",
+        "país": "Uganda",
+        "capital": "Kampala",
+        "población": 45741007,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 16,
+                "precio_promedio_usd": 23,
+                "precio_alto_usd": 29
+            },
+            "comida": {
+                "precio_bajo_usd": 25,
+                "precio_promedio_usd": 36,
+                "precio_alto_usd": 46
+            },
+            "transporte": {
+                "precio_bajo_usd": 26,
+                "precio_promedio_usd": 38,
+                "precio_alto_usd": 49
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 23,
+                "precio_promedio_usd": 33,
+                "precio_alto_usd": 42
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Austral",
+        "país": "Zambia",
+        "capital": "Lusaka",
+        "población": 18383955,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 13,
+                "precio_promedio_usd": 19,
+                "precio_alto_usd": 24
+            },
+            "comida": {
+                "precio_bajo_usd": 9,
+                "precio_promedio_usd": 14,
+                "precio_alto_usd": 18
+            },
+            "transporte": {
+                "precio_bajo_usd": 24,
+                "precio_promedio_usd": 35,
+                "precio_alto_usd": 45
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 31,
+                "precio_promedio_usd": 45,
+                "precio_alto_usd": 58
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Austral",
+        "país": "Mozambique",
+        "capital": "Maputo",
+        "población": 31255435,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 9,
+                "precio_promedio_usd": 14,
+                "precio_alto_usd": 18
+            },
+            "comida": {
+                "precio_bajo_usd": 28,
+                "precio_promedio_usd": 41,
+                "precio_alto_usd": 53
+            },
+            "transporte": {
+                "precio_bajo_usd": 9,
+                "precio_promedio_usd": 13,
+                "precio_alto_usd": 16
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 22,
+                "precio_promedio_usd": 32,
+                "precio_alto_usd": 41
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Central",
+        "país": "Camerún",
+        "capital": "Yaundé",
+        "población": 26545863,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 9,
+                "precio_promedio_usd": 13,
+                "precio_alto_usd": 16
+            },
+            "comida": {
+                "precio_bajo_usd": 12,
+                "precio_promedio_usd": 18,
+                "precio_alto_usd": 23
+            },
+            "transporte": {
+                "precio_bajo_usd": 26,
+                "precio_promedio_usd": 38,
+                "precio_alto_usd": 49
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 30,
+                "precio_promedio_usd": 43,
+                "precio_alto_usd": 55
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Central",
+        "país": "Angola",
+        "capital": "Luanda",
+        "población": 32866272,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 9,
+                "precio_promedio_usd": 13,
+                "precio_alto_usd": 16
+            },
+            "comida": {
+                "precio_bajo_usd": 21,
+                "precio_promedio_usd": 30,
+                "precio_alto_usd": 39
+            },
+            "transporte": {
+                "precio_bajo_usd": 15,
+                "precio_promedio_usd": 22,
+                "precio_alto_usd": 28
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 31,
+                "precio_promedio_usd": 45,
+                "precio_alto_usd": 58
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Occidental",
+        "país": "Costa de Marfil",
+        "capital": "Yamusukro",
+        "población": 26378274,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 20,
+                "precio_promedio_usd": 29,
+                "precio_alto_usd": 37
+            },
+            "comida": {
+                "precio_bajo_usd": 21,
+                "precio_promedio_usd": 30,
+                "precio_alto_usd": 39
+            },
+            "transporte": {
+                "precio_bajo_usd": 7,
+                "precio_promedio_usd": 10,
+                "precio_alto_usd": 13
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 21,
+                "precio_promedio_usd": 31,
+                "precio_alto_usd": 40
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Occidental",
+        "país": "Malí",
+        "capital": "Bamako",
+        "población": 20250833,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 28,
+                "precio_promedio_usd": 41,
+                "precio_alto_usd": 53
+            },
+            "comida": {
+                "precio_bajo_usd": 26,
+                "precio_promedio_usd": 38,
+                "precio_alto_usd": 49
+            },
+            "transporte": {
+                "precio_bajo_usd": 24,
+                "precio_promedio_usd": 35,
+                "precio_alto_usd": 45
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 19,
+                "precio_promedio_usd": 28,
+                "precio_alto_usd": 36
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Oriental",
+        "país": "Ruanda",
+        "capital": "Kigali",
+        "población": 12952218,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 7,
+                "precio_promedio_usd": 11,
+                "precio_alto_usd": 14
+            },
+            "comida": {
+                "precio_bajo_usd": 11,
+                "precio_promedio_usd": 17,
+                "precio_alto_usd": 22
+            },
+            "transporte": {
+                "precio_bajo_usd": 17,
+                "precio_promedio_usd": 25,
+                "precio_alto_usd": 32
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 31,
+                "precio_promedio_usd": 45,
+                "precio_alto_usd": 58
+            }
+        }
+    },
+    {
+        "continente": "África",
+        "región": "África Austral",
+        "país": "Namibia",
+        "capital": "Windhoek",
+        "población": 2540905,
+        "costos_diarios_estimados_en_dólares": {
+            "hospedaje": {
+                "precio_bajo_usd": 8,
+                "precio_promedio_usd": 12,
+                "precio_alto_usd": 15
+            },
+            "comida": {
+                "precio_bajo_usd": 17,
+                "precio_promedio_usd": 25,
+                "precio_alto_usd": 32
+            },
+            "transporte": {
+                "precio_bajo_usd": 11,
+                "precio_promedio_usd": 16,
+                "precio_alto_usd": 20
+            },
+            "entretenimiento": {
+                "precio_bajo_usd": 9,
+                "precio_promedio_usd": 14,
+                "precio_alto_usd": 18
+            }
+        }
+    }
+]

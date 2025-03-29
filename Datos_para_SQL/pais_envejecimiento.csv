@@ -1,0 +1,107 @@
+id_pais,nombre_pais,capital,continente,region,poblacion,tasa_de_envejecimiento
+1,Latvia,Riga,Europa,Norte de Europa,1906800.0,12.49
+2,Romania,Bucarest,Europa,Europa del Este,19000000.0,24.01
+3,Kosovo,Pristina,Europa,Balcanes,1800000.0,19.64
+4,Sudáfrica,Pretoria,África,África Austral,59308690.0,16.97
+5,Slovakia,Bratislava,Europa,Europa Central,5450000.0,8.12
+6,Hungary,,,,,8.12
+7,Angola,,,,,6.16
+8,Japón,,,,,22.32
+9,Uganda,,,,,17.02
+10,Corea del Sur,,,,,19.16
+11,Irán,,,,,5.41
+12,Estados Unidos,,,,,24.4
+13,Cuba,,,,,21.65
+14,Denmark,,,,,9.25
+15,México,,,,,8.64
+16,Argentina,,,,,8.67
+17,Etiopía,,,,,11.08
+18,Chile,,,,,15.5
+19,Liechtenstein,,,,,13.64
+20,Belarus,,,,,10.82
+21,Albania,,,,,17.24
+22,North Macedonia,,,,,7.79
+23,Portugal,,,,,10.84
+24,Finland,,,,,12.33
+25,Canadá,,,,,14.12
+26,Colombia,,,,,20.7
+27,Austria,,,,,8.99
+28,Estonia,,,,,15.28
+29,Uzbekistán,,,,,16.85
+30,Camerún,,,,,5.93
+31,Panamá,,,,,17.15
+32,Malta,,,,,8.41
+33,Ruanda,,,,,6.3
+34,Venezuela,,,,,23.98
+35,Montenegro,,,,,24.31
+36,United Kingdom,,,,,21.17
+37,Arabia Saudita,,,,,11.09
+38,Zambia,,,,,6.95
+39,Vatican City,,,,,18.68
+40,Lithuania,,,,,13.8
+41,Jordania,,,,,7.44
+42,Malasia,,,,,14.9
+43,Costa Rica,,,,,5.69
+44,Brasil,,,,,23.19
+45,Singapur,,,,,10.18
+46,Ghana,,,,,18.25
+47,India,,,,,11.23
+48,Túnez,,,,,15.4
+49,Indonesia,,,,,15.93
+50,Slovenia,,,,,8.7
+51,Namibia,,,,,24.39
+52,Tanzania,,,,,20.5
+53,Nigeria,,,,,23.79
+54,Spain,,,,,22.9
+55,Italy,,,,,16.96
+56,Kenia,,,,,23.44
+57,San Marino,,,,,6.77
+58,Greece,,,,,8.92
+59,Tailandia,,,,,5.9
+60,Vietnam,,,,,11.51
+61,Filipinas,,,,,12.77
+62,Kazajistán,,,,,10.43
+63,Israel,,,,,21.57
+64,Mozambique,,,,,12.14
+65,Turquía,,,,,10.62
+66,Belgium,,,,,15.85
+67,Norway,,,,,7.82
+68,Luxembourg,,,,,21.04
+69,República Dominicana,,,,,6.49
+70,Perú,,,,,24.74
+71,Iceland,,,,,20.44
+72,Russia,,,,,8.97
+73,Serbia,,,,,5.11
+74,Ukraine,,,,,21.31
+75,Senegal,,,,,19.14
+76,Switzerland,,,,,19.58
+77,Bangladés,,,,,20.43
+78,Guatemala,,,,,6.48
+79,El Salvador,,,,,12.17
+80,Bolivia,,,,,7.32
+81,Ireland,,,,,22.26
+82,Bosnia and Herzegovina,,,,,17.47
+83,Malí,,,,,11.62
+84,Nepal,,,,,6.27
+85,Uruguay,,,,,11.22
+86,Egipto,,,,,11.5
+87,Moldova,,,,,19.59
+88,Poland,,,,,17.75
+89,Marruecos,,,,,22.74
+90,Sweden,,,,,14.44
+91,Germany,,,,,7.39
+92,Netherlands,,,,,19.26
+93,Argelia,,,,,20.22
+94,Czech Republic,,,,,16.23
+95,Monaco,,,,,20.42
+96,Andorra,,,,,14.88
+97,Cyprus,,,,,15.45
+98,China,,,,,13.55
+99,Paraguay,,,,,5.51
+100,Bulgaria,,,,,7.16
+101,Costa de Marfil,,,,,5.63
+102,France,,,,,17.73
+103,Croatia,,,,,11.29
+104,Pakistán,,,,,15.17
+105,Honduras,,,,,23.15
+106,Ecuador,,,,,9.99
